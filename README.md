@@ -1,0 +1,2 @@
+# Comptage routier - Données trafic issues des capteurs permanents
+Grâce à l'open data de Paris nous avons accès aux données de trafic routier issues des capteurs permanennts. Ces capteurs mesurent le trafic routier en débit horaire, taux d'occupation et classe chaque mesure en fonction des résultats selon si le trafic est Fluide, Pré-saturé, Saturé ou Inconnu toutes les heures. Les données sont disponibles sur une année glissante. J'ai récupéré les données le Novembre 2022, donc celles-ci vont du 1er Novembre 2021 au 31 Octobre 2022.
